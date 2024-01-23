@@ -1,4 +1,5 @@
 This is prediction of parkign spaces of Seattle of US. LEt me say what i did for preprocessing
+https://data.seattle.gov/Transportation/Paid-Parking-Occupancy-Last-30-Days-/rke9-rsvs/about_data
 1. Downloaded 30days data from seattle dataset publicly available
 2. there were lots of column as this one is basic one so deleted all the column irrelevent to us like Rate, area,subarea, etc
 3. there are around 27 million dataset wwith 1400 parking spaces from which i selected only 1 parking spaces with SourceElementKey-1001
